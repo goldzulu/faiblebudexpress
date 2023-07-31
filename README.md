@@ -38,9 +38,12 @@ The team highly suggests watching the hackathon presentation video where a live 
 
 # Features
 
-* Up to the 7 different voices to listen to so the young ones don't get bored
+* Up to the 7 different voices and growing, to listen to so the young ones don't get bored
 * Highly optimzed audio output for Alexa devices
 * Highly optimized LLM generation for Fable generation 
+* Cloned voice demonstration and potential
+* Ability to generate a fable with a moral of your choice for on demand learning
+* Quick and no fuss way to generate a fable for the little ones
 
 # Architecture
 
