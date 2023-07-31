@@ -17,6 +17,16 @@ to the reader
 - Alexa speakers is everywhere, there are over 100 million Alexa enabled devices. All mobilephones can also use Alexa via
 Alexa app. Alexa Auto allows you to use Alexa in your car. Alexa is also available on many other devices such as TVs, etc.
 
+# Features
+
+* Up to the 7 different voices and growing, to listen to so the young ones don't get bored
+* Highly optimzed audio output for Alexa devices
+* Highly optimized LLM generation for Fable generation 
+* Cloned voice demonstration and potential
+* Ability to generate a fable with a moral of your choice for on demand learning
+* Quick and no fuss way to generate a fable for the little ones
+* Any other Alexa based features that comes for free, e.g. routines (playing at the same time every day), etc.
+
 # Market, Growth and Scaling Potential
 
 The marketing potentiial of the Alexa Skill is huge. There are over 100 million Alexa enabled devices out there and many times more users per device. 
@@ -56,16 +66,6 @@ https://creator.voiceflow.com/prototype/64c6bcd909d04078840fdc5e
 Please note that full experience can only be tested on an Alexa device and the simulator mileage varies.
 
 The team highly suggests watching the hackathon presentation video where a live alexa demo is shown.
-
-# Features
-
-* Up to the 7 different voices and growing, to listen to so the young ones don't get bored
-* Highly optimzed audio output for Alexa devices
-* Highly optimized LLM generation for Fable generation 
-* Cloned voice demonstration and potential
-* Ability to generate a fable with a moral of your choice for on demand learning
-* Quick and no fuss way to generate a fable for the little ones
-* Any other Alexa based features that comes for free, e.g. routines (playing at the same time every day), etc.
 
 # Architecture
 
