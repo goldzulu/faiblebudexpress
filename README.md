@@ -11,8 +11,9 @@ realistic AI generated voice narration powered by the ElevenLabs technology
 - Audiobooks and books are generally not personalized and sometimes not available when a certain values and lessons need to be taught 
 
 # Benefits
+
 - Kids tend to learn better in a form of a story
-- Eleven Labs Cloned voice technology (as showcased in 3 out of the 6 voices) can help the little ones connect better
+- Eleven Labs Cloned voice technology (as showcased in 3 out of the 7 voices) can help the little ones connect better
 to the reader
 - Alexa speakers is everywhere, there are over 100 million Alexa enabled devices. All mobilephones can also use Alexa via
 Alexa app. Alexa Auto allows you to use Alexa in your car. Alexa is also available on many other devices such as TVs, etc.
@@ -25,18 +26,25 @@ There are over 100 million Alexa enabled devices out there and many times more u
 
 # Testing
 
-Currently the Alexa Skill is in development mode and is not yet published. To test the skill, you need to be added as a beta tester.
-Please contact the author to be added as a beta tester.
+Currently the Alexa Skill is in development mode and is not yet published (approval process may take up to a week). To
+test the skill, you need to be added as a alpha/beta tester. Please contact the author to be added as a beta tester.
 
-The full experience can only be tested on an Alexa device. However, you can test the backend server using simple instructions below.
+For a limited time during the hackathon judging period, the team have shared a testing simulator interface available at 
+https://creator.voiceflow.com/prototype/64c6bcd909d04078840fdc5e
+
+Please note that full experience can only be tested on an Alexa device and the simulator mileage varies.
+
+The team highly suggests watching the hackathon presentation video where a live alexa demo is shown.
 
 # Features
 
-Up to the 6 different voices to listen to so the young ones don't get bored
+* Up to the 7 different voices to listen to so the young ones don't get bored
+* Highly optimzed audio output for Alexa devices
+* Highly optimized LLM generation for Fable generation 
 
 # Architecture
 
-The Alexa Skill is currently created by VoiceFlow no-code platform. The backend is a NodeJS server whose source code is in this repo
+The Alexa Skill is currently created by VoiceFlow a hosted no-code platform. The backend is a NodeJS server whose source code is in this repo that does the many heavy duty lifting.
 whose primary function is to make calls to the ElevenLabs API to generate the audio narration.
 
 # Alexa Backend Server
