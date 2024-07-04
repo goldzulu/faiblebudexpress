@@ -1,5 +1,5 @@
 {
-  "name": "faiblebud",
+  "name": "faiblebudexpress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goldzulu/faiblebud.git"
+    "url": "git+https://github.com/goldzulu/faiblebudexpress.git"
   },
   "engines": {
     "node": "16.x"
@@ -17,9 +17,9 @@
   "author": "goldzulu | dadota",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goldzulu/faiblebud/issues"
+    "url": "https://github.com/goldzulu/faiblebudexpress/issues"
   },
-  "homepage": "https://github.com/goldzulu/faiblebud#readme",
+  "homepage": "https://github.com/goldzulu/faiblebudexpress#readme",
   "dependencies": {
     "aws-sdk": "^2.1425.0",
     "axios": "^1.3.5",

@@ -1,6 +1,6 @@
-# fAIble bud
+# fAIble bud express!
 
-fAIble bud is the first of it's kind Alexa Skill that allows you to create unique custom fable on demand for the little ones. You specify what moral or lesson be learnt and the skill will generate a unique fable for you, complete with a high quality realistic AI generated voice narration powered by the ElevenLabs technology
+fAIble bud  express is the first of it's kind Amazon FireTV Alexa skill that allows you to create unique custom fable on demand for the little ones on Amazon Fire TV to play the app on your TV Screen! You specify what moral or lesson be learnt and the skill will generate a unique fable for you, complete with a high quality realistic AI generated voice narration powered by the ElevenLabs technology
 
 # Problem we are solving
 
@@ -95,13 +95,13 @@ Temporarily this has been hosted on glitch.com for the purpose of the hackathon.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/goldzulu/faiblebud.git
+   git clone https://github.com/goldzulu/faiblebudexpress.git
    ```
 
 2. Change to the project directory:
 
    ```
-   cd faiblebud
+   cd faiblebudexpress
    ```
 
 3. Install the required dependencies:
