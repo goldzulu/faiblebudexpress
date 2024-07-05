@@ -1,6 +1,10 @@
-# fAIble bud express!
+# fAIble bud TV!
 
-fAIble bud  express is the first of it's kind Amazon FireTV Alexa skill that allows you to create unique custom fable on demand for the little ones on Amazon Fire TV to play the app on your TV Screen! You specify what moral or lesson be learnt and the skill will generate a unique fable for you, complete with a high quality realistic AI generated voice narration powered by the ElevenLabs technology
+fAIble bud TV is an Amazon Alexa voice-driven application that teaches young children important values and morals through on-demand, highly personalized, unique, and relatable AI-narrated fables. It is designed to be played on over 100 million Smart TVs and projectors with Alexa built-in, offering a modern solution for busy parents by providing educational and engaging content that reduces non-educational screen time for kids.
+
+# Demo
+
+[![fAIble bud TV!](https://img.youtube.com/vi/0l_8ChjsOO4/0.jpg)](https://youtu.be/0l_8ChjsOO4)
 
 # Problem we are solving
 
