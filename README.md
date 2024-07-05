@@ -74,7 +74,7 @@ whose primary function is to make calls to the ElevenLabs API to generate the au
 
 # Alexa Skill Front End
 
-The Alexa Skill front end is created using VoiceFlow, a hosted no-code platform. The source code for the Alexa Skill is not available in this repo under the VoiceFlow folder
+The Alexa Skill front end is created using VoiceFlow, a hosted no-code platform. The source code for the Alexa Skill is available in this repo under the VoiceFlow folder. Please note that Voiceflow has deprecated direct support for Alexa Skill recently so while the flow is working for this particular project, for new voiceflow accounts created you will need to do extra steps to integrate. Open an issue in this repo if you need help.
 
 # Alexa Skill Backend Server
 
